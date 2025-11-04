@@ -1,0 +1,3 @@
+Tazisis,Raelmarn,Brivulrix,Malnarel,Selsor,Quarnaes,Quiraris,Glynnophis,Noraknarel,Brylloris,Zorzyth,Urynn,Selthar,Fyndpyxis,Phyronar,Ylarryn,Ildzeth,Ferdrith,Caelxaril,Naldmir,Nyrixfeth,Nyssural,Silloris,Maleon,Selkurath,Tharilox,Syljoris,Azmarvor,Harnynn,Adalnixis
+
+L8,R23,L35,R32,L25,R37,L41,R37,L17,R42,L17,R12,L28,R13,L13,R40,L46,R24,L38,R24,L5,R40,L5,R19,L5,R24,L5,R31,L5,R42,L5,R17,L5,R47,L5,R43,L5,R18,L5,R19,L8,R10,L30,R46,L21,R9,L42,R12,L12,R10,L22,R26,L34,R28,L27,R47,L39,R6,L43

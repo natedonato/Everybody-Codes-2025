@@ -1,0 +1,3 @@
+Xanthar,Krynnaes,Quoraris,Zorynn,Cynderrax,Balthverax,Xanrax,Zaroth,Grimlyr,Arkgalor
+
+L3,R3,L5,R2,L1,R4,L1,R8,L1,R2,L9
