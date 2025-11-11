@@ -1,0 +1,17 @@
+Ardenzor,Galjorath,Ardenjorath,Ardengnar,Galgnar,Kyzor,Kyjorath,Kygnar,Galzor
+
+A > r
+o > r
+y > j,b
+d > e
+K > y
+n > z,j,g,a
+l > z,j,g
+z > o
+r > a,b
+t > h
+e > n
+j > o
+a > t,r,b
+G > a
+g > n

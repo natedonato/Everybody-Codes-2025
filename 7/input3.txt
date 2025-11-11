@@ -1,0 +1,31 @@
+Ny,Nyl,Nyth,Nyss,Nyrix,Zraal,Pald,Quen,Morn,Elden,Nar,Aer,Val,Qyra,Ynd,Cael,Zyrix,Bal,Sarn,Arden
+
+Z > r,y
+A > r,e
+i > n,x,s,r
+u > r,v
+B > a
+s > s,n,f,u,i,g,e,r,d
+E > l
+r > d,a,o,i,v,n,f,u,g,e,r
+a > l,n,a,v,f,u,i,g,e,r,d
+M > o
+N > y,a
+y > v,t
+P > a
+Y > n
+C > a
+t > h
+h > n,f,u,i,g,e,r,d
+f > e,r
+d > e,i,r,n,f,u,g,d
+S > a
+g > y
+n > d,i,n,f,u,g,e,r,v
+V > a
+e > n,t,v,l
+v > a
+x > i,n,f,u,g,e,r,d
+o > t,v
+l > n,f,u,i,g,e,r,d,v
+Q > u,y

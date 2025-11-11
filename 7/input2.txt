@@ -1,0 +1,28 @@
+Helsar,Hyraoryn,Hyragnar,Hyrasaral,Anororyn,Helgnar,Anorgnar,Elvariral,Hyraketh,Zyrixsar,Zyrixiral,Nexdax,Urnixis,Zyrixnixis,Hyrafarin,Azmardax,Heliral,Helnixis,Urdax,Zyrixfarin,Rylardax,Anornixis,Rylargoril,Nexsar,Helfarin,Helsaral,Urfarin,Rylarsar,Azmarsaral,Anorfarin,Xaralsaral,Xaraldax,Azmaroryn,Elvardax,Zyrixsaral,Nexiral,Anorsar,Hyrasar,Hyrairal,Azmargnar,Heldax,Elvarsar,Elvarsaral,Zyrixgnar,Azmarsar,Azmariral,Azmarfarin,Azmarketh,Azmargoril,Azmarnixis,Zyrixketh,Xaraloryn,Xaralnixis,Elvarketh,Zyrixdax,Elvargnar,Helketh,Xaralgoril,Zyrixoryn,Heloryn,Xaraliral,Zyrixgoril,Xaralfarin,Elvarnixis,Xaralgnar,Elvargoril,Helgoril,Elvarfarin,Elvaroryn,Nexketh,Ursaral,Xaralketh,Uroryn,Urgoril,Nexgnar,Rylarnixis,Anorgoril,Ursar,Anorketh,Nexsaral,Uriral,Anoriral,Hyranixis,Urketh,Nexgoril,Rylarfarin,Urgnar,Rylarsaral,Hyradax,Hyragoril,Anordax,Nexnixis,Rylaroryn,Rylargnar,Rylarketh,Nexfarin,Rylariral,Nexoryn,Anorsaral,Xaralsar
+
+A > n,z
+n > o,a,i,v
+v > a
+s > a
+o > r
+r > g,i,y,a,o,k,s,d,f,n,v
+l > o,k,s,d,g,f,i,n,v,a
+U > r
+R > y
+N > e
+x > o,k,s,d,g,f,i,n
+m > a
+E > l
+e > t,v
+X > a
+d > a
+g > n,o
+f > a
+z > v
+i > x,l,n,r,s
+y > v,n
+k > e
+Z > y
+a > r,x,l,v,o,k,s,d,g,f,i,n
+H > e,y
+t > h
