@@ -45,8 +45,6 @@ def make_possible_names(prev_name):
         for next_char in next_chars:
             make_possible_names(prev_name + next_char)
 
-
-
 for name in valid_prefixes:
     make_possible_names(name)
 
