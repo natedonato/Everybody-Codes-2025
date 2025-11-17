@@ -23,4 +23,11 @@ for p1 in len(input):
         for i in range(max_score):
             c1 = p1[i]
             c2 = p2[i]
+            next_nodes = []
+            if not current:
+                valid = False
+                break
             for node in current:
+                if c1 in node:
+                    next_nodes.add(c1)
+                    
